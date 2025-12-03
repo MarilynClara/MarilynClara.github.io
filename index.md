@@ -10,7 +10,7 @@ My GitHub page is http://github.com/MarilynClara.
 
 * Lab 06
 
-    Lab 6 was one my favorite lab assignments in CPSC-120A. Part 1 explored how you use if-else statements and command lines run a version of the Mad Lib game, while part 2 explored how to use if-else staments and the OR/AND operators to run the BlackJack game. In part 1, primarily, I learned how argument indexing works. For example, command-line 0 belonged to the program name and command-line 1 belonged to the protein for the program. In part 2, I learned to the use the OR "||" operator. I was able to identify the difference between the usage of the OR and AND operator, where each statement has to be true for an AND operator, whereas at least one statement has to be true when using the OR operator for an if-else statement.
+    Lab 6 was one my favorite lab assignments in CPSC-120A. Part 1 explored how you use if-else statements and command lines run a version of the Mad Lib game, while part 2 explored how to use if-else staments and the OR/AND operators to run the BlackJack game. In part 1, primarily, I learned how argument indexing works. For example, command-line 0 belonged to the program name and command-line 1 belonged to the protein for the program. In part 2, I learned to properly use the OR operator in C++. I was able to identify the difference between the usage of the OR and AND operator, where each statement has to be true for an AND operator, whereas at least one statement has to be true when using the OR operator for an if-else statement.
 
 * Lab 07
 
